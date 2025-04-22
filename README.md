@@ -1,6 +1,6 @@
 # NoC Simulation Project
 
-This repository contains the SystemC-based Network-on-Chip (NoC) simulation project for the COE838/EE8221 course. The project involves modeling and simulating an NoC system with various topologies such as mesh, torus, or hypercube.
+This repository contains the SystemC-based Network-on-Chip (NoC) simulation project for the COE838/EE8221 course. The project involves modeling and simulating an NoC system with various topologies such as mesh, torus, or hypercube. 
 
 ## Project Overview
 
