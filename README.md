@@ -5,7 +5,7 @@ This repository contains the SystemC-based Network-on-Chip (NoC) simulation proj
 ## Project Overview
 
 The project focuses on the design and simulation of a NoC system, which includes routers, IP cores, and interconnections. The provided design starts with a simple 1×2 mesh NoC, which is then expanded to more complex systems. 
-
+ 
 ### Key Components 
   
 - **Routers**: Act as switches connecting different IP cores.
