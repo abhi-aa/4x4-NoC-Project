@@ -9,7 +9,7 @@ The project focuses on the design and simulation of a NoC system, which includes
 ### Key Components 
   
 - **Routers**: Act as switches connecting different IP cores.
-- **IP Cores**: The processing units in the NoC, connected via the routers.
+- **IP Cores**: The processing units in the NoC, connected via the routers. 
 - **Topologies**: The NoC can be modeled using different topologies such as mesh, torus, or hypercube.
 
 ## Project Structure
