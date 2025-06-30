@@ -15,7 +15,7 @@ The project focuses on the design and simulation of a NoC system, which includes
 ## Project Structure
 
 - **`src/`**: Contains the source code files for the NoC simulation.
-  - `packet.h`: Defines the structure of a packet in the NoC.
+  - `packet.h`: Defines the structure of a packet in the NoC. 
   - `source.h` & `source.cpp`: Implements the source module, responsible for generating packets.
   - `sink.h` & `sink.cpp`: Implements the sink module, responsible for receiving packets.
   - `router.h` & `router.cpp`: Implements the router module, handling packet routing.
